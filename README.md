@@ -24,17 +24,17 @@
 
 ### Задание 1
 
+![настройки_проекта.png]([ссылка на скриншот 1](https://github.com/victorialugi/8-03-hw/blob/main/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%CC%86%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.png))
 
-`![настройки_проекта.png]([ссылка на скриншот 1](https://github.com/victorialugi/8-03-hw/blob/main/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%CC%86%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0.png))`
-`![результаты_выполнения_сборки.png]([ссылка на скриншот 1](https://github.com/victorialugi/8-03-hw/blob/main/%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B8.png))`
-
+![результаты_выполнения_сборки.png]([ссылка на скриншот 1](https://github.com/victorialugi/8-03-hw/blob/main/%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B8.png))
 
 ---
 
 ### Задание 2
 
-`![настройки_2.png]([ссылка на скриншот 2](https://github.com/victorialugi/8-03-hw/blob/main/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%CC%86%D0%BA%D0%B8_2.png))`
-`![результаты_выолнения_2.png]([ссылка на скриншот](https://github.com/victorialugi/8-03-hw/blob/main/%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%B2%D1%8B%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_2.png))`
+![настройки_2.png]([ссылка на скриншот 2](https://github.com/victorialugi/8-03-hw/blob/main/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%CC%86%D0%BA%D0%B8_2.png))
+
+![результаты_выолнения_2.png]([ссылка на скриншот](https://github.com/victorialugi/8-03-hw/blob/main/%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B_%D0%B2%D1%8B%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_2.png))
 
 
 ---
